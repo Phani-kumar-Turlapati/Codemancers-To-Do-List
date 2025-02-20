@@ -2,7 +2,7 @@
 
 
 
-This is a simple To-Do List application developed for Android using Java and SQLite. The app allows users to create tasks, mark them as done, edit existing tasks, and delete tasks. It provides features like setting priority, adding notes, and categorizing tasks for better organization. With a user-friendly interface, it helps users manage their daily tasks efficiently.
+This is a simple To-Do List application developed for Android using Kotlin and SQLite. The app allows users to create tasks, mark them as done, edit existing tasks, and delete tasks. It provides features like setting priority, adding notes, and categorizing tasks for better organization. With a user-friendly interface, it helps users manage their daily tasks efficiently.
 
 ## Features
 - **Create Tasks**: Easily add new tasks with a name, date, time, category, priority, and optional notes.
