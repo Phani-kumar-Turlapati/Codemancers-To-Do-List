@@ -13,7 +13,7 @@ This is a simple To-Do List application developed for Android using Java and SQL
 - **Add Notes**: Include additional details for tasks by adding notes.
 
 ## Technologies Used
-- **Java**: Primary programming language used for Android app development.
+- **Kotlin**: Primary programming language used for Android app development.
 - **Android Studio**: Integrated Development Environment (IDE) used for Android app development.
 - **SQLite**: Lightweight relational database management system used for local data storage.
 
