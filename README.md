@@ -26,19 +26,27 @@ This is a simple To-Do List application developed for Android using Java and SQL
 ## Screenshots
 ToDoList App Screenshot
 
-(![Screenshot 2025-02-20 153255](https://github.com/user-attachments/assets/1674493e-3e1e-41b4-ba73-ef5f3478185f))
+![Screenshot 2025-02-20 153255](https://github.com/user-attachments/assets/45250d74-c8bd-4709-9d39-a42a685f2816)
+
 
 
 Add List
 
-(![Screenshot 2025-02-20 153138](https://github.com/user-attachments/assets/bf626332-b5d2-4366-ace0-a85364ea812b))
+
+![Screenshot 2025-02-20 153138](https://github.com/user-attachments/assets/f04b8ecd-a321-4c8e-9e1d-ba7602ae86c4)
+
 
 
 Delete Task
 
-(![Screenshot 2025-02-20 153302](https://github.com/user-attachments/assets/6f670854-9882-4309-b833-1f0699289bff))
+
+![Screenshot 2025-02-20 153302](https://github.com/user-attachments/assets/09a375fe-8ea3-4a8d-b5e5-eb5c8f24895c)
+
 
 
 Full Usaage
 
-https://github.com/user-attachments/assets/f4828aa6-b20a-45ab-af67-4b6a6e16e4c2
+
+https://github.com/user-attachments/assets/26843240-f9e5-46e3-a036-e22b56914b81
+
+
